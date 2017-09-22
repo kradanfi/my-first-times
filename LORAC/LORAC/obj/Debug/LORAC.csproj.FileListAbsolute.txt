@@ -1,0 +1,11 @@
+E:\worker\LORAC\LORAC\bin\Debug\LORAC.exe.config
+E:\worker\LORAC\LORAC\bin\Debug\LORAC.exe
+E:\worker\LORAC\LORAC\bin\Debug\LORAC.pdb
+E:\worker\LORAC\LORAC\obj\Debug\LORAC.csprojResolveAssemblyReference.cache
+E:\worker\LORAC\LORAC\obj\Debug\LORAC.Properties.Resources.resources
+E:\worker\LORAC\LORAC\obj\Debug\LORAC.register.resources
+E:\worker\LORAC\LORAC\obj\Debug\LORAC.csproj.GenerateResource.Cache
+E:\worker\LORAC\LORAC\obj\Debug\LORAC.csproj.CoreCompileInputs.cache
+E:\worker\LORAC\LORAC\obj\Debug\LORAC.exe
+E:\worker\LORAC\LORAC\obj\Debug\LORAC.pdb
+E:\worker\LORAC\LORAC\obj\Debug\LORAC.main.resources
